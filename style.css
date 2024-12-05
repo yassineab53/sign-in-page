@@ -51,14 +51,12 @@ ul {
 }
 
 .register-form {
-    /* background: url('https://cdn.pixabay.com/photo/2015/01/27/20/40/notebook-614213_960_720.jpg')no-repeat; */
     margin-top: 100px;
     min-height: 700px;
     text-align: center;
     background-size: cover;
     display: flex;
     flex-wrap: wrap;
-    /* align-items: center; */
     justify-content: center;
     flex-direction: row;
 }
@@ -73,7 +71,6 @@ ul {
     padding-top: 20px;
     font-size: 40px;
     font-family: 'Signika', sans-serif;
-    /* #ccccf0, #1414e0) */
     background: linear-gradient(to right, #aaaacf, #4747f8);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
